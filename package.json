@@ -1,0 +1,11 @@
+{
+  "name": "closen",
+  "version": "0.0.1",
+  "author": "Terry Ford",
+  "dependencies": {
+    "classify-js": "~0.10.4"
+  },
+  "devDependencies ": {
+    "mocha": "~1.9.1"
+  }
+}
